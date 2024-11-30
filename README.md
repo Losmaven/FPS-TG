@@ -30,9 +30,8 @@ Movement Commands
         Use the shortcut Ctrl + `` (backtick) to open the terminal.
 
     Navigate to the Game Directory:
-        Use the cd command:
-
-    cd "c:\Users\sajal\OneDrive\Desktop\mini project sem 7\fps game\"
+    cd://.......
+       
 
 **Compile the Game:**
 
